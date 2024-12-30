@@ -1,0 +1,15 @@
+[
+  {
+    "question": "What is the meaning of the word <strong>الفيل (Al-Fil)</strong>?",
+    "options": ["The Elephant", "The Lion", "The Camel"],
+    "correctAnswer": "The Elephant",
+    "audio": "audio/alfil.mp3"
+  },
+  {
+    "question": "What is the meaning of the word <strong>الْقَلَم (Al-Qalam)</strong>?",
+    "options": ["The Book", "The Pen", "The Light"],
+    "correctAnswer": "The Pen",
+    "audio": "audio/alqalam.mp3"
+  }
+  // Add additional questions here (up to 100 questions)
+]
